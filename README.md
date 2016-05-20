@@ -1,6 +1,6 @@
 # makejnlp
 
-
+MakeJNLP allows you to launch Java Applets using [Java Web Start](http://www.oracle.com/technetwork/java/javase/javawebstart/index.html).
 
 ## Download
 Download the file below, then drag that file to your Bookmarks bar. To use it, you need to click the bookmarklet you created *twice*.
@@ -8,13 +8,13 @@ Download the file below, then drag that file to your Bookmarks bar. To use it, y
 **[Download Link](https://github.com/ccawley2011/makejnlp/raw/master/makejnlp.url)**
 
 MakeJNLP has been tested with:
-- <a href="https://www.mozilla.org/en-GB/firefox/new/">Mozilla Firefox</a> 44+
-- <a href="http://www.opera.com/">Opera</a> 10.63+
-- <a href="http://www.seamonkey-project.org/">SeaMonkey</a> 1.1.19+
-- <a href="https://www.google.co.uk/chrome">Google Chrome</a> 49+
+- [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/) 44+
+- [Opera](http://www.opera.com/) 10.63+
+- [SeaMonkey](http://www.seamonkey-project.org/) 1.1.19+
+- [Google Chrome](https://www.google.co.uk/chrome) 49+
 
 ## Limitations
-- <a href="http://caniuse.com/#feat=datauri">Incompatible with Internet Explorer and Edge.</a>
+- [Incompatible with Internet Explorer and Edge.](http://caniuse.com/#feat=datauri)
 - Recent versions of Chrome (sometimes) discard the created JNLP file after saving.
 - No support for &lt;embed&gt; tags.
 - Fix horizontal overflow.
@@ -26,12 +26,11 @@ MakeJNLP has been tested with:
 
 ### Applets and Web Start
 - [Download Java](https://java.com/en/download/manual.jsp)
-- [JNLP file specifications](https://docs.oracle.com/javase/7/docs/technotes/guides/javaws/developersguide/syntax.html)
-- [Embedding applets using tags](https://docs.oracle.com/javase/8/docs/technotes/guides/jweb/applet/using_tags.html)
-- [Security level settings in the Java Control Panel](https://java.com/en/download/help/jcp_security.xml)
-- [What is Java?](https://java.com/en/download/faq/whatis_java.xml)
 - [Java and Chrome](https://java.com/en/download/faq/chrome.xml)
 - [Oracle Blogs - Moving to a Plugin-Free Web](https://blogs.oracle.com/java-platform-group/entry/moving_to_a_plugin_free)
+- [Security level settings in the Java Control Panel](https://java.com/en/download/help/jcp_security.xml)
+- [JNLP file specifications](https://docs.oracle.com/javase/7/docs/technotes/guides/javaws/developersguide/syntax.html)
+- [Embedding applets using tags](https://docs.oracle.com/javase/8/docs/technotes/guides/jweb/applet/using_tags.html)
 
 ### Sites which still use Java
 - [Java Tester](http://javatester.org/version.html)
