@@ -1,2 +1,2 @@
 [InternetShortcut]
-URL=javascript:(function(){if (document.getElementById("makejnlpscript")==null) { var makejnlpscript = document.createElement('script');makejnlpscript.id="makejnlpscript";makejnlpscript.src = "https://rawgit.com/ccawley2011/makejnlp/master/makejnlp.js";makejnlpscript.type = 'text/javascript';document.body.appendChild(makejnlpscript); } catchapplet();})();
+URL=javascript:(function(){if (document.getElementById("makejnlpscript")==null) { var makejnlpscript = document.createElement('script');makejnlpscript.id="makejnlpscript";makejnlpscript.src = "https://cdn.jsdelivr.net/gh/ccawley2011/makejnlp@master/makejnlp.js";makejnlpscript.type = 'text/javascript';document.body.appendChild(makejnlpscript); } catchapplet();})();
